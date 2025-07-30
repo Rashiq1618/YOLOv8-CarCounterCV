@@ -1,4 +1,4 @@
-# Vehicle Detection and Counting with YOLOv8 and SORT
+# Vehicle Detection and Counting with YOLOv8
 
 This project implements real-time vehicle detection, tracking, and counting using the YOLOv8 object detection model and the SORT tracking algorithm. The system is optimized with CUDA and cuDNN for high-performance inference on GPU.
 
