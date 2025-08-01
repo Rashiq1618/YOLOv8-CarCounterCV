@@ -39,8 +39,9 @@ This project implements real-time vehicle detection, tracking, and counting usin
 
 ## Customization
 
-* Modify the `limits` variable in `main.py` to adjust the counting line.
+* Modify the `limits` variable in `car-counter.py` to adjust the counting line.
 * Replace `mask.png` to change the detection region.
+* Use the video car.mp4 for this model.
 * Use different YOLOv8 model sizes (e.g., `yolov8n.pt`, `yolov8s.pt`) depending on performance needs.
 
 ## License
